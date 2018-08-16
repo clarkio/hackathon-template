@@ -17,11 +17,11 @@ Raw notes from ng-ai hackathon at ng-conf
         b. 2 hours: Attendees hack on projects
         c. 30 mins: Presentations (and judging if there are prizes)
 5. had azure passes to provide to attendees upon registration
-    i. see Allison or Mel for that
+    i. see events team for that
 6. determined prizes for winners
     i.      make sure to have enough for everyone
     ii.     limit team sizes so prizes can be distributed evenly
-    iii.    funding and purchasing was handled by Allison and Mel
+    iii.    funding and purchasing was handled by events team
 7. provided food and beverages at the event
-    i. handled by Allison and Mel
+    i. handled by events team
 -->
